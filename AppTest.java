@@ -10,6 +10,7 @@ import static org.fest.assertions.api.Assertions.assertThat;
 
 /**
  * Unit test for simple App.
+ * What is this shit?
  */
 public class AppTest  {
 
